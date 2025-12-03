@@ -20,4 +20,4 @@ My GitHub page is http://github.com/pswara700.
 
 * Lab 7
 
-    Lab 7 was my favorite as it had real-life practical application to provide parking availability based on the information written on the command line. This lab used boolean values and various operators to impose conditions based on the given time, street, and day to check for availability. Based on the command line input, the code was able to determine if parking was allowed or not. 
+    Lab 7 was my favorite as it had a scenario based practical application to provide parking availability based on the information written on the command line. This lab used boolean values and various operators to impose conditions based on the given time, street, and day to check for availability. Based on the command line input, the code was able to determine if parking was allowed or not. 
