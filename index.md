@@ -4,7 +4,7 @@ This is my home page! My name is Swara Patel and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/pswara700.
+My GitHub page is [http://github.com/pswara700](http://github.com/pswara700)
 
 ### CPSC 120
 
